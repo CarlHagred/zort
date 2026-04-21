@@ -1,6 +1,6 @@
-# File Organizer
+# Zort
 
-File Organizer is a small script for sorting files within a directory based on a configuration file.
+Zort is a small script for sorting files within a directory based on a configuration file.
 
 When run the first time zort will create its config file in:
 
